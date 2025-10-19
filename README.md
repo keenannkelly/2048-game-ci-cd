@@ -2,10 +2,6 @@
 
 A containerized 2048 game with automated CI/CD deployment on AWS using ECS, ECR, and CodeBuild.
 
-## 🎮 Live Demo
-
-The game is deployed and accessible at: http://[current-ecs-task-ip]
-
 ## 🏗️ Architecture
 
 This project demonstrates a complete CI/CD pipeline using AWS services:
