@@ -4,7 +4,7 @@ A containerized 2048 game with automated CI/CD deployment on AWS using ECS, ECR,
 
 ## 🎮 Live Demo
 
-The game is deployed and accessible at: `http://http://18.220.165.86/`
+The game is deployed and accessible at: http://[current-ecs-task-ip]
 
 ## 🏗️ Architecture
 
